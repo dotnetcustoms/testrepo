@@ -13,5 +13,7 @@ namespace SimpleConsoleApp
         public string FeatureName { get; set; }
 
         // still in FirstBranch
+
+        //continued comments in FirstBranch
     }
 }
