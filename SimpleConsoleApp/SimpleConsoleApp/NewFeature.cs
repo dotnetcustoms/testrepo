@@ -8,6 +8,8 @@ namespace SimpleConsoleApp
 {
     public class NewFeature
     {
+        public int FeatureId { get; set; }
+
         public string FeatureName { get; set; }
     }
 }
