@@ -11,5 +11,7 @@ namespace SimpleConsoleApp
         public int FeatureId { get; set; }
 
         public string FeatureName { get; set; }
+
+        // still in FirstBranch
     }
 }
